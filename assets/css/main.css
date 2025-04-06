@@ -655,6 +655,10 @@ input, select, textarea {
 			left: 0;
 			opacity: 0.5;
 			position: absolute;
+			background-position: center,
+ center;
+			background-repeat: no-repeat,
+			repeat;
 			top: 0;
 			width: 100%;
 		}
